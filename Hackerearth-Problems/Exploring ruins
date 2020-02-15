@@ -27,4 +27,4 @@ for i in range(len(s)):
             s=s[:i]+'b'+s[i+1:]
             
             
-print(s)
+print(s) 
