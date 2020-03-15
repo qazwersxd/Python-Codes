@@ -17,3 +17,8 @@ h=histogram('Hi! This is sahil kumar')
 print_hist(h)
 print('\n')
 print_sorted_hist(h)
+#this is the part of the code that is responsible to calculate mean deviation about mean
+for i in range():
+    for j in range():
+        for k in range ():
+            
